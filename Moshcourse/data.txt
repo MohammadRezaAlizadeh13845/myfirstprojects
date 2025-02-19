@@ -1,0 +1,4 @@
+Python generators are special functions that yield values one at a time instead of returning them all at once.  
+This makes them memory-efficient and useful for handling large datasets or infinite sequences.  
+Using a generator, you can iterate over data without storing everything in memory.  
+For example, reading a large file line by line with a generator is much more efficient than loading the entire file into memory.  
